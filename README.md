@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagarjunacd&label=Profile%20views&color=0e75b6&style=flat" alt="nagarjunacd" /> </p>
 
-- 🔭 I’m currently working on [RadhaKrishna Vidya Shale](www.rkvscrp.in)
+- 🔭 I’m currently working on [RadhaKrishna Vidya Shale](https://github.com/vishalranka2003/Radha_Krishna_School)
 
 - 📫 How to reach me **nagarjunacd19@gmail.com**
 
